@@ -1,0 +1,25 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "Test run of this app",
+  "main": "index.js",
+  "scripts": {
+    "test": "runtest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cwj79/test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Charles Jackson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cwj79/test/issues"
+  },
+  "homepage": "https://github.com/cwj79/test#readme",
+  "dependencies": {
+    "@uswds/uswds": "^3.2.0"
+  }
+}
